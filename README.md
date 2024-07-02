@@ -1,7 +1,7 @@
-- 👋 Hello Everyone!, This is me Muhammad Waleed,
-- 👀 I’m interested in IT and AI,
-- 🌱 I’m currently learning Data Science as well as Software Engeering.
-- 💞️ I’m looking to collaborate on ...
+Hello Everyone!
+This is me Muhammad Waleed,
+I’m interested in IT and AI,
+I’m currently learning Data Science as well as Software Engineering.
 Reach me at muhammadwaleed5684@gmail.com
 
 <!---
